@@ -18,3 +18,4 @@ Use various tags in HTML to give it a pleasant look. It should be having followi
 ## Documentation
 
 [Live Solution](https://sandesh-at-git.github.io/WebTechAssignment/)
+(📵For big screen only📵)
