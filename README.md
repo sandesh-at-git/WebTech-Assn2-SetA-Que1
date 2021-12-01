@@ -1,0 +1,16 @@
+
+# Web-Tech Assignment 1
+
+## Set A
+(1). Create an HTML page giving information about celebrating Dussehra in your country.
+
+Use various tags in HTML to give it a pleasant look. It should be having following links:
+
+(a) clip of Dussehra celebration
+
+(b)Information why it is celebrated
+
+(c)When it is celebrated
+
+(d)What you do on this day
+
