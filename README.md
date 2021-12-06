@@ -17,5 +17,5 @@ Use various tags in HTML to give it a pleasant look. It should be having followi
 
 ## Documentation
 
-[Live Solution](https://sandesh-at-git.github.io/WebTechAssignment/)
+[Live Solution](https://sandesh-at-git.github.io/WebTech-Assn2-SetA-Que1/)
 (📵For big screen only📵 or switch to desktop site)
